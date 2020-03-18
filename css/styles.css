@@ -2,6 +2,11 @@ body{
   text-align: center;
   background: linear-gradient(#a5f0b9,#4deb31,#65ebd2,#33a1f5);
 }
+.container{
+  color:white;
+  background-image: url("https://i.pinimg.com/originals/b8/28/3d/b8283dc5adb353c9e5d7b2f525a17a44.jpg");
+  
+}
 .column1{
 width: 33%;
 height: 200px;
@@ -27,3 +32,6 @@ text-align: center;
 .button{
  background:red;
 }
+.columns{
+  margin-bottom: 100px;
+} 

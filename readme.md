@@ -8,7 +8,6 @@
 
 _This webpage was created to help users find which animals they'd like to adopt from this animal shelter. This page is applicable in most browsers like internet explorer, or chrome._
 
-
 ## Setup/Installation Requirements
 
 _In Terminal:_
